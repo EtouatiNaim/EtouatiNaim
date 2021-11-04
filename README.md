@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EtouatiNaim
+- 👀 I’m passionate about computers science and the discovery of new technologies
+- 🌱 I’m currently learning python/Java/PHP
